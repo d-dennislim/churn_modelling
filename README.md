@@ -1,6 +1,7 @@
 # Customer Churn Prediction (CCP)
 Machine learning project on customer churn prediction  
-Part of postgraduate assignment submission for _Applied Machine Learning (AML)_
+Part of postgraduate assignment submission for _Applied Machine Learning (AML)_  
+  
 Dataset: https://www.kaggle.com/datasets/undersc0re/predict-the-churn-risk-rate
 
 ## Model used: 
